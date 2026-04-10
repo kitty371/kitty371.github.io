@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://imgur.com/a/qUgilbF.png);
+    background: url(https://imgur.com/z6ycA2i.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,11 +8,11 @@
 }
 
 .xbox.white {
-    background: url(xbox-assets/base-white.svg);
+    background: url(https://imgur.com/a/qUgilbF.png);
 }
 
 .xbox.disconnected {
-    background: url(xbox-assets/disconnected.svg);
+    background: url(https://imgur.com/a/qUgilbF.png);
 }
 
 .xbox.disconnected div {
@@ -140,7 +140,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(https://imgur.com/a/h7BJre1.png);
+    background: url(https://imgur.com/Fky2kdQ.png);
     width: 48px;
     height: 48px;
 }
